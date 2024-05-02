@@ -1,2 +1,2 @@
-# PyTorch_CNN_FashionMNIST
-Training CNN using PyTorch to classify FashionMNIST
+# PyTorch_Nerual_Network
+PyTorch Training
